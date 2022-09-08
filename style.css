@@ -1,4 +1,18 @@
 html, body {
 	height: 100%;
 	width: 100%;
+	background-image: url("resources/bg-pattern-card.svg");
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+main {
+	border-radius: 15px;
+	background: #ffffff url("resources/bg-pattern-card.svg") no-repeat;
+	background-size: contain;
+	max-width: 375px;
+	min-width: 350px;
+	height: 500px;
 }
