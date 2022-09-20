@@ -47,7 +47,16 @@ img {
 section {
 	display: flex;
 	justify-content: center;
-	gap: 14px;
+	gap: 10px;
+}
+
+.user {
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+.city{
+	margin-bottom: 25px;
 }
 
 h1 {
@@ -76,12 +85,14 @@ p {
 }
 
 footer {
+	padding: 25px 50px;
 	border-top: 1px solid #ededed; /*or #efefef*/
 	display: flex;
 	justify-content: space-between;
 }
 
 div {
+	width: 62px;
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
