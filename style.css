@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
+* {
+	padding: 0px;
+	margin: 0px;
+	/* Mantém o tamanho das boxes, sem somar com padding ou margin*/
+	box-sizing: border-box;
+}
+
 html, body {
 	height: 100%;
 	width: 100%;
