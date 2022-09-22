@@ -11,6 +11,7 @@ html, body {
 	height: 100%;
 	width: 100%;
 	background-image: url("resources/bg-pattern-card.svg");
+	background-color: #41cbd3;
 	background-size: cover;
 	display: flex;
 	justify-content: center;
