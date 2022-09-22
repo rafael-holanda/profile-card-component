@@ -12,7 +12,7 @@
 
 ![](resources/screenshot.png)
 
-Profile Card Component is a  challenge from Frontend Mentor, Where the purpose
+Profile Card Component is a  challenge from Frontend Mentor, where the purpose
 is to create a stylized card with a photo, name and other informations of a user,
 which automatically adapts to the size of the browser window.
 
